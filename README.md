@@ -3,4 +3,5 @@
 
 
 
-click to visit website:https://github.com/Abethgils1/College.github.io.git
+click to visit website:http://college.github.io/College.github.io
+
